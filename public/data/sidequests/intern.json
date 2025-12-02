@@ -1,0 +1,219 @@
+{
+  "questions": [
+    {
+      "question": "今天是你實習的第一天，公司一樓大廳聚集了許多和你一樣的新進人員與實習生們，你覺得充滿動力，迫不及待想在公司幹番大事業。在等待mentor下樓迎接你的時間，發現原來有另一位同個部門的實習生正在你旁邊，你會...？",
+      "options": [
+        {
+          "text": "馬上湊過去打聽對方的來歷",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "原來對方是個財金系大二學妹"
+        },
+        {
+          "text": "裝作沒看到，等上樓進辦公室後再認識對方",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "嗯一般般呢"
+        },
+        {
+          "text": "向對方先做自我介紹，並問他為何也想來這間公司實習",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "因為暑假閒閒沒事想賺錢"
+        },
+        {
+          "text": "問他早餐吃什麼",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "在家裡吃燕麥加牛奶呦"
+        }
+      ]
+    },
+    {
+      "question": "進辦公室後，跟著mentor向全部門的同事們一個一個自我介紹後，你被分派到一個座位，你終於有了專屬於你的辦公桌空間。而因為是上工第一天，要開通內部權限與系統等等，短時間內無法馬上開始工作，於是mentor指了指放在辦公室一旁的書堆，裡面你估計有大約30本書，你決定要拿哪一本書來讀？",
+      "options": [
+        {
+          "text": "《PyTorch深度學習實作攻略》",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "多看這本，技術也能登峰造極"
+        },
+        {
+          "text": "Calculus:Early_Transcendentals",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "大一每晚的惡夢"
+        },
+        {
+          "text": "黃山料小說《人間孤獨，卻與你一見如故》",
+          "stats": {
+            "academic": 10,
+            "love": 10,
+            "activity": 10,
+            "wealth": 0
+          },
+          "result": "這本書可以為你帶來驚人的心靈成長"
+        },
+        {
+          "text": "Please!Freeze!Please!圖書室三人的祕密情事",
+          "stats": {
+            "academic": 0,
+            "love": 4,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "來場辦公室秘密情事吧"
+        }
+      ]
+    },
+    {
+      "question": "到了中午，你跟著同部門的同事們一起下樓到餐廳吃義大利麵，你看了看菜單，發現盡是一些品質平庸的義大利麵簡餐，與你高品味的舌頭格格不入，但礙於第一天上工，你希望能多多了解你的同事們，所以你決定要吃...",
+      "options": [
+        {
+          "text": "蛤蠣義大利麵佐炸雞",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "非常好吃"
+        },
+        {
+          "text": "野菇燉飯佐炸雞",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "真的很好吃"
+        },
+        {
+          "text": "德式香腸義大利麵佐魚排",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "很好吃"
+        },
+        {
+          "text": "英式炸魚排義大利麵",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "好吃"
+        }
+      ]
+    },
+    {
+      "question": "逐漸地，你和公司的同事們越來越熟，你也對於工作內容上有了一定的掌握。某一天，你和另一位實習生要共同分析一項資料，而你在撰寫程式的過程中，想起了小傑所說的modularization以及把註解寫好這件事，所以你把所有的自定義函數和function_overloading寫得漂漂亮亮，獲得了很不錯的工作效率。你覺得整間部門的同事也應該要效仿這樣的好習慣，所以...",
+      "options": [
+        {
+          "text": "私下和同事說明，未來撰寫程式時要注意維護性與可讀性",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "大家都變得會寫程式了呢"
+        },
+        {
+          "text": "擅自在資訊程式中台，把其他同事寫好的扣調整成更好維護的樣式",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "我只領基本時薪怎麼累的跟狗一樣"
+        },
+        {
+          "text": "在每月週會中向主管報告這件事情，希望未來可以共同努力往這個方向邁進",
+          "stats": {
+            "academic": 1,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "很有遠見，讚，未來是你的"
+        }
+      ]
+    },
+    {
+      "question": "最後，實習到了尾聲，主管很中意你的能力，希望你能在畢業後能來公司應徵儲備幹部，以正直的身分回歸公司擔任資料工程師；然而，你也有你的其他規劃：",
+      "options": [
+        {
+          "text": "前往國外申請研究所，繼續往碩士甚至博士的學位邁進，以最終成為一名教授為目標。",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "學術的道路遙遠且寒冷，加油吧少年"
+        },
+        {
+          "text": "選擇延畢，雙主修某個自己也很有興趣的科系。",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 2,
+            "wealth": -1
+          },
+          "result": "你爸會責怪你不幫他省學費"
+        },
+        {
+          "text": "聽從主管的建議，一畢業後就投遞履歷，繼續與同事們共業，往senior資料工程師邁進",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 5
+          },
+          "result": "因為實習過我們決定開給你更高的薪水"
+        },
+        {
+          "text": "決定從軍，投筆從戎，為中華民國效命，同時獲得穩定不錯的報酬",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 4
+          },
+          "result": "戒嚴的時候開著坦克車華麗出場"
+        }
+      ]
+    }
+  ]
+}

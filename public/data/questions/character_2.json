@@ -1,0 +1,519 @@
+{
+  "questions": [
+    {
+      "question": "​​開學系學會學長姐很友善地邀請繳系學費（記名），你會？",
+      "options": [
+        {
+          "text": "抱歉我媽說不能給陌生人錢",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -2,
+            "wealth": 2
+          },
+          "result": "勇敢拒絕，你是勇者"
+        },
+        {
+          "text": "因為學姊很漂亮於是乖乖繳費",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "好色喔"
+        },
+        {
+          "text": "學長親自開口不敢說不吧",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "你就俗仔"
+        }
+      ]
+    },
+    {
+      "question": "期中考前，大家約打麻將，你會？",
+      "options": [
+        {
+          "text": "打麻將打通宵，早上大家一起去考期末考，感情好好",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "放推真男人"
+        },
+        {
+          "text": "不行啦，期中考要爆炸了（回去自己卷）",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "你是乖巧好學生"
+        },
+        {
+          "text": "去會辦打一下麻將，再回去偷卷",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "小孩子才做選擇，我全都要"
+        }
+      ]
+    },
+    {
+      "question": "大一期中考完系上要舉辦之夜，是否會想加入？",
+      "options": [
+        {
+          "text": "加入並上台表演",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 5,
+            "wealth": 0
+          },
+          "result": "你是superstar"
+        },
+        {
+          "text": "我不想加入感覺好累",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": -3,
+            "wealth": 0
+          },
+          "result": "嗚嗚你是大I人"
+        },
+        {
+          "text": "加入當幕後工人",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "好ㄟ不用爆肝"
+        }
+      ]
+    },
+    {
+      "question": "明天有早八微積分，但今天系上同學有人生日要約夜唱，你要參加嗎？",
+      "options": [
+        {
+          "text": "我不想去好累喔",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -1,
+            "wealth": 3
+          },
+          "result": "我好喜歡我的床"
+        },
+        {
+          "text": "當然要參加和大家一起同樂",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": -2
+          },
+          "result": "夜唱真開心"
+        },
+        {
+          "text": "身為認真的好學生，我想早起去上微積分",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是乖小孩"
+        }
+      ]
+    },
+    {
+      "question": "今天早上下著小雨不想去上體育課，但體育老師一次沒到就會扣一個等第，你會？",
+      "options": [
+        {
+          "text": "不去了，繼續躲在被窩裡睡覺",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "冬天早晨的棉被真舒服"
+        },
+        {
+          "text": "撐著傘騎著腳踏車壓線浪漫進場",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是認真的好學生"
+        },
+        {
+          "text": "去一下點名完馬上溜",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "good_choice"
+        }
+      ]
+    },
+    {
+      "question": "開學時發現系上同學各個都有說不出的怪，因此你決定？",
+      "options": [
+        {
+          "text": "加入他們變得一樣怪，講一些自己系上才能懂得話(我想和你isomorphism)",
+          "stats": {
+            "academic": 0,
+            "love": -1,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "互相包含讚"
+        },
+        {
+          "text": "決定當個正常人",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": -1,
+            "wealth": 0
+          },
+          "result": "我才不要當怪人勒"
+        }
+      ]
+    },
+    {
+      "question": "發現系上少數的女生同學長得很漂亮，剛好人家的男朋友遠在新竹，你會？",
+      "options": [
+        {
+          "text": "啥都不做，繼續當個單身狗",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 3
+          },
+          "result": "你就不敢"
+        },
+        {
+          "text": "試圖靠近他，趁機對她做貼心的事(上課時送熱可可給他)",
+          "stats": {
+            "academic": 0,
+            "love": 3,
+            "activity": 0,
+            "wealth": -1
+          },
+          "result": "你又想色"
+        }
+      ]
+    },
+    {
+      "question": "大二那一年的聖誕節，心儀的女生主動向你告白，為了破除聖誕節魔咒，因此你決定和他交往。會希望你們的相處模式是？",
+      "options": [
+        {
+          "text": "相敬如賓，常常見面吃飯，偶爾吃一些高檔料理",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": -3,
+            "wealth": 0
+          },
+          "result": "要沒錢啦"
+        },
+        {
+          "text": "天天膩在一起，不跟系上其他同學互動",
+          "stats": {
+            "academic": 0,
+            "love": 3,
+            "activity": -3,
+            "wealth": 0
+          },
+          "result": "你是誰我怎沒看過"
+        },
+        {
+          "text": "當個舔狗，女生說的每一句話都照做，唯諾是從",
+          "stats": {
+            "academic": -2,
+            "love": 4,
+            "activity": 0,
+            "wealth": -1
+          },
+          "result": "有夠舔"
+        },
+        {
+          "text": "對方說甚麼都習慣就好",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "ㄏㄏ習慣就好"
+        }
+      ]
+    },
+    {
+      "question": "某一天回宿舍正在睡覺，平常要好的室友突然跟你說：我好愛你。然後爬上你的床找你，你會？",
+      "options": [
+        {
+          "text": "一巴掌打下去，覺得他有毛病",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "你太帥了大俠"
+        },
+        {
+          "text": "尊重他的性傾向，與他保持距離",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你又不給騷"
+        },
+        {
+          "text": "跟他展開一個激情纏綿的夜晚",
+          "stats": {
+            "academic": 0,
+            "love": -2,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "男上加男"
+        }
+      ]
+    },
+    {
+      "question": "你和你的室友們心血來潮想舉辦一場大胃王比賽，規則是2vs2，限時100分鐘，吃的肉盤數多的就獲勝，你的進食策略應該要？",
+      "options": [
+        {
+          "text": "從頭到尾都只吃肉，能吃多少就吃多少，但有機率會撐到想吐",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 2
+          },
+          "result": "真男人不認輸"
+        },
+        {
+          "text": "有時吃一些蔬菜，交替著吃肉，讓自己打持久戰",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "到底怎麼輸"
+        },
+        {
+          "text": "比賽一開始就把自己吃到撐死，然後比賽後半都交給隊友輸出，自己去吃旁邊的甜點鬆餅緩緩氣",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "鬆餅比較好吃ㄟ"
+        },
+        {
+          "text": "當個裁判乖乖在旁邊優雅地吃壽司",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 1
+          },
+          "result": "舒服，不用比賽真好"
+        }
+      ]
+    },
+    {
+      "question": "某天的天氣又濕又冷，還下著毛毛雨，但你卻不小心把整排的腳踏車弄倒，你應該？",
+      "options": [
+        {
+          "text": "當作沒看見，趕快停好車溜走",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -3,
+            "wealth": 2
+          },
+          "result": "怎麼這麼沒公德心"
+        },
+        {
+          "text": "請在一旁等你的女朋友來幫忙一起扶車",
+          "stats": {
+            "academic": 0,
+            "love": -1,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "來幫你扶車了"
+        },
+        {
+          "text": "就算一旁的女朋友只顧自己滑手機，自己一個人仍然將車子全部扶好",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "我只想滑手機懶得理你"
+        }
+      ]
+    },
+    {
+      "question": "聽到某位男性友人因為投資到一直虧錢的公司，將大筆金錢賠光，你決定？",
+      "options": [
+        {
+          "text": "看他很可憐，贊助他生活費",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 5,
+            "wealth": -10
+          },
+          "result": "幫你擋一下"
+        },
+        {
+          "text": "啥事都不做",
+          "stats": {
+            "academic": 1,
+            "love": 0,
+            "activity": 0,
+            "wealth": 1
+          },
+          "result": "我沒辦法承擔0050浮動的風險..."
+        },
+        {
+          "text": "你也跟著一起投資",
+          "stats": {
+            "academic": -1,
+            "love": 0,
+            "activity": 0,
+            "wealth": 6
+          },
+          "result": "媽的建通是甚麼爛公司到底要套多久"
+        }
+      ]
+    },
+    {
+      "question": "某一天晚餐時間，你和你的朋友們有個慣例，就是吃一間粗飽肉多的雞肉館，但今天吃完你發現肚子超痛，這時你會？",
+      "options": [
+        {
+          "text": "肚子痛又不是什麼大事，休息一兩天就好",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 0,
+            "wealth": -2
+          },
+          "result": "哪有我超痛"
+        },
+        {
+          "text": "肚子痛到腰酸背痛，又覺得宿舍不能好好休息，所以決定花大錢去旅館住一晚",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 5
+          },
+          "result": "你真的公子哥ㄟ"
+        }
+      ]
+    },
+    {
+      "question": "在學校上課上到一半，發現坐你一旁的同學突然臉紅脖子粗，好像是因為受到授課老師的魅力影響，你會？",
+      "options": [
+        {
+          "text": "報告老師，有同學身體不適!",
+          "stats": {
+            "academic": 1,
+            "love": 0,
+            "activity": 3,
+            "wealth": 1
+          },
+          "result": "趕快帶她去保健中心"
+        },
+        {
+          "text": "跟他說一些鼓勵的話，舒緩他的副交感神經",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "你超帥大家都愛你"
+        },
+        {
+          "text": "下課請他喝一杯冰涼的木瓜牛奶，冰鎮一下他",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 3,
+            "wealth": -1
+          },
+          "result": "這麼舒服"
+        }
+      ]
+    },
+    {
+      "question": "一轉眼就快畢業了，你因為學業路途上一帆風順，因此決定？",
+      "options": [
+        {
+          "text": "繼續升學當個教授的🐕",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "教授來根菸吧"
+        },
+        {
+          "text": "決定走一條不一樣的路，直接徑博",
+          "stats": {
+            "academic": 10,
+            "love": 0,
+            "activity": 0,
+            "wealth": -3
+          },
+          "result": "真男人就要讀博士"
+        },
+        {
+          "text": "出去賺錢實現財富自由",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 4
+          },
+          "result": "目標是提早退休"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "這周末是你跟女友的第一次約會，你會帶她去？",
+      "options": [
+        {
+          "text": "去淡水河一起欣賞美麗的夕陽",
+          "inLoveChange": 5,
+          "result": "夕陽無限好"
+        },
+        {
+          "text": "去人擠人的信義區看場浪漫的電影",
+          "inLoveChange": 3,
+          "result": "這場電影真好看"
+        },
+        {
+          "text": "邀她來租屋處看你家貓咪後空翻",
+          "inLoveChange": -2,
+          "result": "惡魔貓男，你今晚的惡夢"
+        }
+      ]
+    },
+    {
+      "question": "因為很忙很久沒見面了，今天是一起吃飯的時間，你會？",
+      "options": [
+        {
+          "text": "找一間風景美麗但有點貴的景觀餐廳",
+          "inLoveChange": 5,
+          "result": "你真的老有錢了"
+        },
+        {
+          "text": "找路邊攤普通便宜大碗的傳統美食",
+          "inLoveChange": -2,
+          "result": "帶你品一下傳統文化"
+        },
+        {
+          "text": "找一間舒適安靜的義大利麵餐廳",
+          "inLoveChange": 4,
+          "result": "這間店氣氛真不錯ㄟ"
+        }
+      ]
+    },
+    {
+      "question": "交往紀念日，你會怎麼度過？",
+      "options": [
+        {
+          "text": "帶對方去吃好吃的餐廳慶祝",
+          "inLoveChange": 3,
+          "result": "謝謝你帶我吃這麼好吃的東西"
+        },
+        {
+          "text": "送對方昂貴的禮物和手寫卡片以表真心",
+          "inLoveChange": 5,
+          "result": "出手是闊少ㄟ"
+        },
+        {
+          "text": "和平常一樣手牽著手一起去河濱散步並說一些浪漫情話",
+          "inLoveChange": 7,
+          "result": "你真是給予滿滿情緒價值的浪漫人"
+        },
+        {
+          "text": "什麼都沒準備憑感覺想去哪就去哪",
+          "inLoveChange": 1,
+          "result": "你根本沒把關係放在心上吧"
+        }
+      ]
+    },
+    {
+      "question": "女友傳訊息跟你說她身體不舒服，你會？",
+      "options": [
+        {
+          "text": "傳訊息請她多喝熱水，照顧好自己",
+          "inLoveChange": -4,
+          "result": "那你也自己談戀愛"
+        },
+        {
+          "text": "買溫暖的魚湯到他宿舍樓下送給她喝",
+          "inLoveChange": 4,
+          "result": "你怎麼這麼好啊"
+        },
+        {
+          "text": "帶她去看醫生",
+          "inLoveChange": 2,
+          "result": "暖男印象深植人心"
+        }
+      ]
+    },
+    {
+      "question": "有天約會到一半成績終於公布了，你們打開成績查詢，發現女友有個科目成績不好讓她心情很差，你會？",
+      "options": [
+        {
+          "text": "買個甜的東西給她吃並給她溫暖的擁抱，安慰她沒關係",
+          "inLoveChange": 5,
+          "result": "沒差拉你這麼強"
+        },
+        {
+          "text": "跟他說下次再加油就好",
+          "inLoveChange": 0,
+          "result": "考試只是人生中的一件小事"
+        },
+        {
+          "text": "啥都不表示跟她分享你拿了幾個A+",
+          "inLoveChange": -6,
+          "result": "你是不是欠扁"
+        },
+        {
+          "text": "開始諂媚跟她說你爛死了她很厲害",
+          "inLoveChange": -3,
+          "result": "你又在裝弱"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "config": {
+    "benchmarks": {
+      "academic": 280,
+      "love": 120,
+      "activity": 300,
+      "wealth": 180
+    },
+    "sideQuests": {
+      "love": {
+        "firstTrigger": 15,
+        "secondTrigger": 20,
+        "maxAttempts": 2
+      },
+      "intern": {
+        "academicThreshold": 50
+      },
+      "studyAbroad": {
+        "combinedThreshold": 10
+      }
+    },
+    "attributes": {
+      "academic": {
+        "name": "學業",
+        "icon": "BookOpen",
+        "color": "#3b82f6"
+      },
+      "love": {
+        "name": "愛情",
+        "icon": "Heart",
+        "color": "#ec4899"
+      },
+      "activity": {
+        "name": "活躍度",
+        "icon": "Zap",
+        "color": "#f59e0b"
+      },
+      "wealth": {
+        "name": "金錢",
+        "icon": "DollarSign",
+        "color": "#10b981"
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "intro": "在外人眼中，台大生是優秀又高攀不起的傳說級存在，未來不是接手夏氏集團，就是成為雇式集團的大總裁，從此走上人生巔峰。\n\n但其實，身為台大生，真相可能更像是：\n從頭到尾都是個小丑，註定成為哥譚的噩夢；好課一修再修，一門微積分可以讀滿四年；社團生活更是像薛丁格的貓，游走於被認知與被忽略之間，遭遇三重打擊的 triple kill！\n\n在這款模擬器中，你將從 冷酷無情的學分走狗、管院系核男、中規中矩的數學男、逗寶 I 人資工男中選擇一位，挑戰「學業、愛情、活躍度、金錢」四大屬性的平衡與成長！每位角色擁有獨特的天賦與能力，而你的每個抉擇都將深刻影響這場精彩又現實的台大人生。\n\n是要書寫校園傳奇，還是淪為徹頭徹尾的loser？現在，打造屬於你的大學生涯吧！",
+  "ui": {
+    "buttons": {
+      "startGame": "開始遊戲",
+      "restart": "重新開始",
+      "acceptQuest": "接受挑戰",
+      "declineQuest": "放棄支線"
+    },
+    "titles": {
+      "characterSelect": "選擇你的角色",
+      "sideQuest": {
+        "love": "戀愛支線",
+        "intern": "實習支線",
+        "studyAbroad": "留學支線"
+      }
+    },
+    "prompts": {
+      "sideQuestTrigger": "恭喜觸發支線任務！是否接受挑戰？",
+      "loveQuestComplete": "恭喜你成功守衛愛情，邁向幸福未來，戀愛支線結束！",
+      "loveQuestFailed": "你讓女友很失望，被甩了，戀愛支線提早結束！",
+      "internQuestComplete": "恭喜完成實習支線！",
+      "studyAbroadQuestComplete": "恭喜完成留學支線！",
+      "loadingData": "載入遊戲資料中...",
+      "loadingFailed": "載入遊戲資料失敗，請確認所有 JSON 檔案都在 public/data/ 目錄中"
+    },
+    "labels": {
+      "loveStatus": "💕 戀愛中",
+      "loveValue": "💕 感情指數",
+      "questionProgress": "問題"
+    }
+  },
+  "result": {
+    "badges": {
+      "legendary": "🎉 獲得傳奇稱號"
+    },
+    "sectionTitles": {
+      "socialClass": "📊 社會階級評鑑",
+      "achievements": "🏆 支線任務結算",
+      "lifeReview": "📖 大學生活回顧"
+    },
+    "grades": {
+      "SS": {
+        "label": "神話",
+        "color": "#f59e0b"
+      },
+      "S": {
+        "label": "頂層",
+        "color": "#f59e0b"
+      },
+      "A": {
+        "label": "菁英",
+        "color": "#10b981"
+      },
+      "B": {
+        "label": "凡人",
+        "color": "#3b82f6"
+      },
+      "C": {
+        "label": "平庸",
+        "color": "#6366f1"
+      },
+      "D": {
+        "label": "底層",
+        "color": "#ef4444"
+      }
+    },
+    "achievementTexts": {
+      "love": {
+        "title": "戀愛學分",
+        "cheating": {
+          "status": "劈腿分手",
+          "desc": "因不忠而被發現，這段感情畫下句點"
+        },
+        "loyal": {
+          "status": "忠貞不二",
+          "desc": "面對誘惑，你選擇了堅守現有感情"
+        },
+        "rejected": {
+          "status": "單身貴族",
+          "desc": "你主動拒絕了曖昧的機會"
+        },
+        "success": {
+          "status": "找到真愛",
+          "desc": "魅力與選擇正確，成功脫單"
+        },
+        "failed": {
+          "status": "失戀收場",
+          "desc": "嘗試交往但失敗了"
+        },
+        "notTriggeredWithPartner": {
+          "status": "未解鎖",
+          "desc": "魅力不足，未觸發特殊事件"
+        },
+        "notTriggeredSingle": {
+          "status": "未解鎖",
+          "desc": "魅力不足，大學四年沒有桃花運"
+        }
+      },
+      "intern": {
+        "title": "職場贏家",
+        "success": {
+          "status": "獲得Offer",
+          "desc": "學業優異且面試順利，成功錄取"
+        },
+        "declined": {
+          "status": "未解鎖",
+          "desc": "雖然獲得推薦，但你選擇放棄機會"
+        },
+        "notTriggered": {
+          "status": "未解鎖",
+          "desc": "學業成績未達標"
+        }
+      },
+      "studyAbroad": {
+        "title": "世界公民",
+        "success": {
+          "status": "世界公民",
+          "desc": "資源充足且規劃得宜，成功出國"
+        },
+        "declined": {
+          "status": "未解鎖",
+          "desc": "雖然獲得資格，但你選擇留在台灣"
+        },
+        "notTriggered": {
+          "status": "未解鎖",
+          "desc": "財富或活躍度不足，無法申請"
+        }
+      }
+    },
+    "labels": {
+      "inLove": "戀愛中",
+      "initial": "初始",
+      "growth": "成長",
+      "decline": "退步",
+      "noHistory": "沒有歷史記錄",
+      "endOfMemory": "— 回憶的終點 —",
+      "yourChoice": "💬 你選擇了："
+    }
+  }
+}

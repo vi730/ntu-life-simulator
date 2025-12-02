@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "逗寶 I 人資工男",
+      "description": "系上邊緣悶騷人",
+      "image": "character_images/character1.png",
+      "stats": {
+        "academic": 9,
+        "love": 2,
+        "activity": 5,
+        "wealth": 9
+      },
+      "loveStatus": false
+    },
+    {
+      "id": 2,
+      "name": "中規中矩的數學男",
+      "description": "理性務實的數學系學生",
+      "image": "character_images/character2.png",
+      "stats": {
+        "academic": 7,
+        "love": 6,
+        "activity": 6,
+        "wealth": 6
+      },
+      "loveStatus": true
+    },
+    {
+      "id": 3,
+      "name": "管院系核男",
+      "description": "社交能力強的管院學生",
+      "image": "character_images/character3.png",
+      "stats": {
+        "academic": 4,
+        "love": 7,
+        "activity": 8,
+        "wealth": 6
+      },
+      "loveStatus": false
+    },
+    {
+      "id": 4,
+      "name": "冷酷且無情的學分走狗",
+      "description": "極度重視學業成績",
+      "image": "character_images/character4.png",
+      "stats": {
+        "academic": 7,
+        "love": 1,
+        "activity": 10,
+        "wealth": 7
+      },
+      "loveStatus": false
+    }
+  ]
+}

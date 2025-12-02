@@ -1,0 +1,519 @@
+{
+  "questions": [
+    {
+      "question": "開學系學會學長姐很友善地邀請繳系學費（記名），你會？",
+      "options": [
+        {
+          "text": "抱歉我媽說不能給陌生人錢",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -2,
+            "wealth": 2
+          },
+          "result": "勇敢拒絕，你是勇者"
+        },
+        {
+          "text": "因為學姊很漂亮於是乖乖繳費",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "好色喔"
+        },
+        {
+          "text": "學長親自開口不敢說不吧",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "你就俗仔"
+        }
+      ]
+    },
+    {
+      "question": "期中考前，大家約打麻將，你會？",
+      "options": [
+        {
+          "text": "打麻將打通宵，早上大家一起去考期末考，感情好好",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "放推真男人"
+        },
+        {
+          "text": "不行啦，期中考要爆炸了（回去自己卷）",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "你是乖巧好學生"
+        },
+        {
+          "text": "去會辦打一下麻將，再回去偷卷",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "小孩子才做選擇，我全都要"
+        }
+      ]
+    },
+    {
+      "question": "大一期中考完系上要舉辦之夜，是否會想加入？",
+      "options": [
+        {
+          "text": "加入並上台表演",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 5,
+            "wealth": 0
+          },
+          "result": "你是superstar"
+        },
+        {
+          "text": "我不想加入感覺好累",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": -3,
+            "wealth": 0
+          },
+          "result": "嗚嗚你是大I人"
+        },
+        {
+          "text": "加入當幕後工人",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "好ㄟ不用爆肝"
+        }
+      ]
+    },
+    {
+      "question": "明天有早八微積分，但今天系上同學有人生日要約夜唱，你要參加嗎？",
+      "options": [
+        {
+          "text": "我不想去好累喔",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -1,
+            "wealth": 3
+          },
+          "result": "我好喜歡我的床"
+        },
+        {
+          "text": "當然要參加和大家一起同樂",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": -2
+          },
+          "result": "夜唱真開心"
+        },
+        {
+          "text": "身為認真的好學生，我想早起去上微積分",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是乖小孩"
+        }
+      ]
+    },
+    {
+      "question": "今天早上下著小雨不想去上體育課，但體育老師一次沒到就會扣一個等第，你會？",
+      "options": [
+        {
+          "text": "不去了，繼續躲在被窩裡睡覺",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "冬天早晨的棉被真舒服"
+        },
+        {
+          "text": "撐著傘騎著腳踏車壓線浪漫進場",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是認真的好學生"
+        },
+        {
+          "text": "去一下點名完馬上溜",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "good_choice"
+        }
+      ]
+    },
+    {
+      "question": "小福餐廳漲價了，你會？",
+      "options": [
+        {
+          "text": "讓小福見識供需平衡，改去吃女九",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -1,
+            "wealth": 3
+          },
+          "result": "越來越貴到底為啥這麼多人，該制裁了"
+        },
+        {
+          "text": "揪去118覓食，烤肉飯好吃",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": -1
+          },
+          "result": "但118中午也很多人，很多也不好吃"
+        },
+        {
+          "text": "只好再多接一份家教了",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 3
+          },
+          "result": "賺錢一直賺一直爽"
+        }
+      ]
+    },
+    {
+      "question": "聽說很好玩的管院舞會要舉辦了，你會？",
+      "options": [
+        {
+          "text": "肯定要參加，邀請系上的漂亮同學一起參加喇舌大賽",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 5,
+            "wealth": -2
+          },
+          "result": "你老色皮"
+        },
+        {
+          "text": "感覺好猴好浪費時間，我要把時間拿來偷卷才不參加",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "祝你成為最頂的以利特"
+        },
+        {
+          "text": "參加一下站在角落默默看同學耍猴",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 1,
+            "wealth": -2
+          },
+          "result": "一堆人喝醉真的超逗"
+        }
+      ]
+    },
+    {
+      "question": "管院必修課點名率過低可能被當，你會？",
+      "options": [
+        {
+          "text": "發起連署爭取不當人權",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "阿課就這麼水幹嘛去"
+        },
+        {
+          "text": "乖乖去上課",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": -1,
+            "wealth": 0
+          },
+          "result": "我是乖小孩"
+        },
+        {
+          "text": "我是天之驕子，在宿舍睡覺賭教授不會當我",
+          "stats": {
+            "academic": -1,
+            "love": 0,
+            "activity": -1,
+            "wealth": 0
+          },
+          "result": "管院課這麼水應該不會當吧"
+        }
+      ]
+    },
+    {
+      "question": "NTUcool系統掛了，但作業deadline到今天晚上，你會？",
+      "options": [
+        {
+          "text": "發Dcard罵他，「NTUcool又壞了？」",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "習慣就好，還敢不早點寫作業啊"
+        },
+        {
+          "text": "氣死，找朋友打LOL，謝謝你台大",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "放推到底，舒服"
+        },
+        {
+          "text": "寫信問教授能不能延期",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": -1,
+            "wealth": 0
+          },
+          "result": "好的，這次作業延期一週(因為同學可能都在看棒球)"
+        }
+      ]
+    },
+    {
+      "question": "用宿舍的電挖礦被抓，你會？",
+      "options": [
+        {
+          "text": "「這是金融科技作業」",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 2
+          },
+          "result": "哪來這種課"
+        },
+        {
+          "text": "說服舍監一起挖",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 2
+          },
+          "result": "賺錢要給吃紅"
+        },
+        {
+          "text": "就直接不挖了",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": -2
+          },
+          "result": "再挖你就退宿"
+        }
+      ]
+    },
+    {
+      "question": "系上教授提供一個企業實習機會，但與系學會重要活動時間衝突：",
+      "options": [
+        {
+          "text": "大學沒實習會被笑吧",
+          "stats": {
+            "academic": 0,
+            "love": -1,
+            "activity": -2,
+            "wealth": 4
+          },
+          "result": "但實習很多都在打雜"
+        },
+        {
+          "text": "系學會學長說會推薦我去高盛",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 2,
+            "wealth": -3
+          },
+          "result": "你信他富邦勇士都可以打贏金州勇士"
+        },
+        {
+          "text": "都不參加，想當個邊緣人耍廢",
+          "stats": {
+            "academic": 2,
+            "love": -1,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "我就爛阿好爽"
+        }
+      ]
+    },
+    {
+      "question": "參加創業競賽獲得獎金，你會？",
+      "options": [
+        {
+          "text": "全額投資加密貨幣，才不愧對正本清源，衝鋒！",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 5
+          },
+          "result": "年輕人就該多冒險"
+        },
+        {
+          "text": "拿去辦派對，人脈才是最重要的",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 4,
+            "wealth": -3
+          },
+          "result": "遊艇趴辦起來"
+        },
+        {
+          "text": "存定存當創業基金",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 0,
+            "wealth": 2
+          },
+          "result": "我沒辦法承擔太大風險，媽媽叫我存定存"
+        }
+      ]
+    },
+    {
+      "question": "有一天一個朋友跟你說他心情不好，找你出來喝酒訴苦，但發現她喝醉了，你會？",
+      "options": [
+        {
+          "text": "叫車送她回家",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "謝謝你你是好人"
+        },
+        {
+          "text": "把握這個機會，跟她一夜情",
+          "stats": {
+            "academic": 0,
+            "love": -3,
+            "activity": 1,
+            "wealth": -2
+          },
+          "result": "有機會就先爽再說，tree"
+        },
+        {
+          "text": "拿一杯水給她解酒，待在酒吧等到她醒",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "ㄟ現在幾點了我頭超痛"
+        }
+      ]
+    },
+    {
+      "question": "這週要社團Present每周都要開會，但你朋友找你出去夜衝，你會？",
+      "options": [
+        {
+          "text": "裝病請假，夜衝感受浪漫氣氛",
+          "stats": {
+            "academic": -1,
+            "love": 2,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "去玩被抓成為社團毒瘤"
+        },
+        {
+          "text": "我是個有責任感的人，拒絕邀約",
+          "stats": {
+            "academic": 2,
+            "love": -2,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "想當爆肝以利特賺大錢"
+        }
+      ]
+    },
+    {
+      "question": "海投了一堆履歷，畢業前夕同時收到創投公司和大企業的offer，你會？",
+      "options": [
+        {
+          "text": "選擇創投，小公司感覺比較自由",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 4
+          },
+          "result": "我就喜歡自由的環境"
+        },
+        {
+          "text": "進入大企業才是人生勝利組",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -2,
+            "wealth": 3
+          },
+          "result": "外商員工我就牛逼"
+        },
+        {
+          "text": "找系上大神創FinTech新創",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "創業發大財舒服"
+        }
+      ]
+    }
+  ]
+}

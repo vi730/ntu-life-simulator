@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "question": "外國外食好貴，你會？",
+      "options": [
+        {
+          "text": "沒差啊我就吃餐廳，因為我不會煮飯",
+          "stats": {
+            "academic": 0,
+            "love": -1,
+            "activity": 0,
+            "wealth": -5
+          },
+          "result": "您真是含金湯匙出生的有錢人"
+        },
+        {
+          "text": "餐餐自己煮，我是小當家",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 2,
+            "wealth": 3
+          },
+          "result": "新好男人是你"
+        },
+        {
+          "text": "去蹭會煮飯的同學",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": 1
+          },
+          "result": "蹭飯路上有你有我"
+        }
+      ]
+    },
+    {
+      "question": "要選課了，你對於交換的學期的個人安排是什麼？",
+      "options": [
+        {
+          "text": "我要修最低下限的學分數，把時間都用來旅遊",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 6,
+            "wealth": -10
+          },
+          "result": "一路走到世界的盡頭"
+        },
+        {
+          "text": "我想探索未來要不要出國讀研，多修點課體驗外國學習環境",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": -2,
+            "wealth": 3
+          },
+          "result": "每一分錢都要花錢要花得有價值"
+        },
+        {
+          "text": "肯定選最難的課，將內卷精神帶到國外",
+          "stats": {
+            "academic": 8,
+            "love": 0,
+            "activity": -5,
+            "wealth": 3
+          },
+          "result": "內捲風氣已深入骨子裡"
+        }
+      ]
+    },
+    {
+      "question": "當你在國外一個人體驗生活時，發現之前在台大一起修課的同學最近很常傳訊息給你噓寒問暖，看起來想要跟你聊天，你會？",
+      "options": [
+        {
+          "text": "聊幾句就已讀他，覺得傳訊息好麻煩，溝通很沒效率",
+          "stats": {
+            "academic": 4,
+            "love": -2,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是個謹慎交友的人啊"
+        },
+        {
+          "text": "她看起來很真誠，人看起來也還不錯，給她機會聊個天好了",
+          "stats": {
+            "academic": 2,
+            "love": 3,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是個溫柔大好人"
+        },
+        {
+          "text": "她之前小組報告看起來很笨，我才不要理她，直接塑膠",
+          "stats": {
+            "academic": 3,
+            "love": -3,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "即將繼續過一個人的舒適生活"
+        }
+      ]
+    },
+    {
+      "question": "某天一起旅遊的路上，租的汽車爆胎了，但在荒郊野外，此時你會？",
+      "options": [
+        {
+          "text": "在路上攔車想當個便車",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 2
+          },
+          "result": "可惜這地方沒人通過..."
+        },
+        {
+          "text": "安慰夥伴們，給予情緒價值，邀請大家一起走路欣賞美景等待救援",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": 0
+          },
+          "result": "你真是個浪漫男人"
+        },
+        {
+          "text": "開始瘋狂打電話救援，心急如焚想辦法修車",
+          "stats": {
+            "academic": 0,
+            "love": -1,
+            "activity": 0,
+            "wealth": -2
+          },
+          "result": "冷靜不急躁"
+        }
+      ]
+    },
+    {
+      "question": "很快地還有一個月就要回去台灣了，你會最想做下列哪一件事情？",
+      "options": [
+        {
+          "text": "和在這裡認識的室友們辦個深度旅遊，最後也要一起創造美好的回憶",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 5,
+            "wealth": -1
+          },
+          "result": "看起來你很喜歡這些朋友呢"
+        },
+        {
+          "text": "跟喜歡的當地女生告白，不論結果與否未來回想起來是一段很好的過往",
+          "stats": {
+            "academic": 0,
+            "love": 3,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "也許沒有結果，但事後回想起來也是甜甜的回憶"
+        },
+        {
+          "text": "自己一個人來場一個月的壯遊，多多寬闊自己的視野",
+          "stats": {
+            "academic": 1,
+            "love": 0,
+            "activity": 3,
+            "wealth": -3
+          },
+          "result": "作為一個俠客，流浪是我最後的歸屬"
+        },
+        {
+          "text": "為了讓在台灣的畢業成績單更好看，乖乖在宿舍準備期末考",
+          "stats": {
+            "academic": 6,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "畢業一定要拿到全系第一名，誰能阻止我"
+        }
+      ]
+    }
+  ]
+}

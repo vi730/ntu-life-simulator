@@ -1,0 +1,479 @@
+{
+  "questions": [
+    {
+      "question": "​​開學系學會學長姐很友善地邀請繳系學費（記名），你會？",
+      "options": [
+        {
+          "text": "抱歉我媽說不能給陌生人錢",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -2,
+            "wealth": 2
+          },
+          "result": "勇敢拒絕，你是勇者"
+        },
+        {
+          "text": "因為學姊很漂亮於是乖乖繳費",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "好色喔"
+        },
+        {
+          "text": "學長親自開口不敢說不吧",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "你就俗仔"
+        }
+      ]
+    },
+    {
+      "question": "期中考前，大家約打麻將，你會？",
+      "options": [
+        {
+          "text": "打麻將打通宵，早上大家一起去考期末考，感情好好",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 4,
+            "wealth": 0
+          },
+          "result": "放推真男人"
+        },
+        {
+          "text": "不行啦，期中考要爆炸了（回去自己卷）",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "你是乖巧好學生"
+        },
+        {
+          "text": "去會辦打一下麻將，再回去偷卷",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "小孩子才做選擇，我全都要"
+        }
+      ]
+    },
+    {
+      "question": "大一期中考完系上要舉辦之夜，是否會想加入？",
+      "options": [
+        {
+          "text": "加入並上台表演",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 5,
+            "wealth": 0
+          },
+          "result": "你是superstar"
+        },
+        {
+          "text": "我不想加入感覺好累",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": -3,
+            "wealth": 0
+          },
+          "result": "嗚嗚你是大I人"
+        },
+        {
+          "text": "加入當幕後工人",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "好ㄟ不用爆肝"
+        }
+      ]
+    },
+    {
+      "question": "明天有早八微積分，但今天系上同學有人生日要約夜唱，你要參加嗎？",
+      "options": [
+        {
+          "text": "我不想去好累喔",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -1,
+            "wealth": 3
+          },
+          "result": "我好喜歡我的床"
+        },
+        {
+          "text": "當然要參加和大家一起同樂",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 2,
+            "wealth": -2
+          },
+          "result": "夜唱真開心"
+        },
+        {
+          "text": "身為認真的好學生，我想早起去上微積分",
+          "stats": {
+            "academic": 5,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是乖小孩"
+        }
+      ]
+    },
+    {
+      "question": "今天早上下著小雨不想去上體育課，但體育老師一次沒到就會扣一個等第，你會？",
+      "options": [
+        {
+          "text": "不去了，繼續躲在被窩裡睡覺",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "冬天早晨的棉被真舒服"
+        },
+        {
+          "text": "撐著傘騎著腳踏車壓線浪漫進場",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你是認真的好學生"
+        },
+        {
+          "text": "去一下點名完馬上溜",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "good_choice"
+        }
+      ]
+    },
+    {
+      "question": "實驗課和學妹分到同一組，你決定？",
+      "options": [
+        {
+          "text": "下課揪個一起吃燭光晚餐",
+          "stats": {
+            "academic": 0,
+            "love": 1,
+            "activity": 0,
+            "wealth": -5
+          },
+          "result": "不好意思學長我晚上要跟男朋友約會ㄟ"
+        },
+        {
+          "text": "不如回家打LOL上分比較實在",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "單身日子最舒服了"
+        },
+        {
+          "text": "我是哥布林，我甚麼都不敢",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": -2,
+            "wealth": 0
+          },
+          "result": "哥布林一起強大"
+        }
+      ]
+    },
+    {
+      "question": "水源阿伯在拖吊我的youbike，這時候你該？",
+      "options": [
+        {
+          "text": "優雅地掏出你的甩棍大棒棒，溫柔請求他冷靜地放下你的腳踏車",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -3,
+            "wealth": 3
+          },
+          "result": "好吧放過你一次"
+        },
+        {
+          "text": "我要上課啦沒時間管他，晚點再放交流版靠北一波",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": 0,
+            "wealth": -2
+          },
+          "result": "我明明停在白線裡阿怎麼被移出來了"
+        }
+      ]
+    },
+    {
+      "question": "期中考考完覺得超難，要被當了，覺得教授頂樓風好大，你會？",
+      "options": [
+        {
+          "text": "畢竟颱風要來，等颱風走就回實驗室把我的研究做完",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": -1,
+            "wealth": 2
+          },
+          "result": "我還是想畢業阿"
+        },
+        {
+          "text": "教授覺得你目前為止做的很棒，估計最多再兩個月你就可以解脫了",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": -1,
+            "wealth": 0
+          },
+          "result": "趕快做完就可以畢業了"
+        }
+      ]
+    },
+    {
+      "question": "撿到交流版上發學生證不見的同學的學生證了，你會？",
+      "options": [
+        {
+          "text": "同學幫你放在玉山山頂了，超暖",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": -2,
+            "wealth": -4
+          },
+          "result": "你到底有甚麼毛病"
+        },
+        {
+          "text": "欸他長得不錯看欸，面交我順便請他吃個飯好了",
+          "stats": {
+            "academic": 0,
+            "love": 3,
+            "activity": 2,
+            "wealth": -3
+          },
+          "result": "但我已經補辦了ㄟ"
+        },
+        {
+          "text": "禮貌地跟他說我放在警衛室，請她自己來拿",
+          "stats": {
+            "academic": 0,
+            "love": 2,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "你真是個溫暖的好人"
+        }
+      ]
+    },
+    {
+      "question": "為什麼計中都印不出來？",
+      "options": [
+        {
+          "text": "CM_Kuan還在交流版抱怨站在傅鐘前都沒人跟他招手",
+          "stats": {
+            "academic": -2,
+            "love": 0,
+            "activity": 0,
+            "wealth": 0
+          },
+          "result": "你已經不是校長了"
+        },
+        {
+          "text": "今天剛好可以印出來!爽到起飛",
+          "stats": {
+            "academic": 3,
+            "love": 0,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "老天有眼，舒服"
+        }
+      ]
+    },
+    {
+      "question": "快畢業了!要不要準備考研？",
+      "options": [
+        {
+          "text": "現在開始爆讀一波一次上",
+          "stats": {
+            "academic": 4,
+            "love": 0,
+            "activity": -4,
+            "wealth": 3
+          },
+          "result": "聽你在胡扯哪這麼簡單"
+        },
+        {
+          "text": "明年再考，從現在開始專心炒幣賺大錢",
+          "stats": {
+            "academic": -3,
+            "love": 0,
+            "activity": 0,
+            "wealth": 8
+          },
+          "result": "景氣真好我要薛海"
+        }
+      ]
+    },
+    {
+      "question": "系上的同學邀請一起去椰林辦桌，聽說是最後一屆了，你會？",
+      "options": [
+        {
+          "text": "聽說前幾年辦得好糟，食物很難吃，我才不要去",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": -4,
+            "wealth": 3
+          },
+          "result": "精緻甜點是中華豆花，三小"
+        },
+        {
+          "text": "畢業前夕應該多珍惜可以聚在一起的時光，果斷參加",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 3,
+            "wealth": -2
+          },
+          "result": "大家一起來喝酒吧"
+        },
+        {
+          "text": "不報名但當天進去到處蹭東蹭西",
+          "stats": {
+            "academic": 0,
+            "love": 0,
+            "activity": 4,
+            "wealth": 1
+          },
+          "result": "嘿嘿乞丐超人是我"
+        }
+      ]
+    },
+    {
+      "question": "大學快過完了好像都沒做甚麼大事情欸，你會？",
+      "options": [
+        {
+          "text": "競選性平會委員，提倡性別平等快速道路，學生可以在椰林大道騎摩托車",
+          "stats": {
+            "academic": 2,
+            "love": 0,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "舟山高yyds"
+        },
+        {
+          "text": "爬上椰子樹摘椰子回家吃",
+          "stats": {
+            "academic": 0,
+            "love": -2,
+            "activity": 3,
+            "wealth": 3
+          },
+          "result": "聽說有人砍了椰子樹？"
+        }
+      ]
+    },
+    {
+      "question": "單身好久突然有一個異性朋友頻繁約你吃飯，你會？",
+      "options": [
+        {
+          "text": "一定去啊，拚畢業前脫單",
+          "stats": {
+            "academic": 0,
+            "love": 4,
+            "activity": 2,
+            "wealth": -1
+          },
+          "result": "你是不是誤會了甚麼"
+        },
+        {
+          "text": "我好怕生，兩個人吃飯超尬先否",
+          "stats": {
+            "academic": 0,
+            "love": -2,
+            "activity": -2,
+            "wealth": 3
+          },
+          "result": "自己在宿舍睡覺不香嗎"
+        },
+        {
+          "text": "偶爾赴約偶爾拒絕，欲擒故縱讓她心癢癢",
+          "stats": {
+            "academic": 0,
+            "love": 8,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "高端海王是你"
+        }
+      ]
+    },
+    {
+      "question": "畢業前終於選到森多概了，組內有一個女生超漂亮，你會？",
+      "options": [
+        {
+          "text": "開始讚美她，成為眾多舔狗中的一員",
+          "stats": {
+            "academic": -1,
+            "love": -2,
+            "activity": 1,
+            "wealth": 0
+          },
+          "result": "抱歉你可能連舔狗都不夠格"
+        },
+        {
+          "text": "反正我又追不到，隨便相處就好",
+          "stats": {
+            "academic": 2,
+            "love": 3,
+            "activity": 2,
+            "wealth": 0
+          },
+          "result": "诶他怎麼主動約我"
+        },
+        {
+          "text": "趁這幾天多聊天變熟，營期結束馬上約她出去",
+          "stats": {
+            "academic": 2,
+            "love": 2,
+            "activity": 2,
+            "wealth": -1
+          },
+          "result": "好爽喔他要跟我出去了"
+        }
+      ]
+    }
+  ]
+}
