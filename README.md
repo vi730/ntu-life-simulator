@@ -1,5 +1,7 @@
 # NTU Life Simulator (Web Version)
 
+**Try the game here: [Play Now](https://ntu-life-simulator.vercel.app/)**
+
 ### Project Overview
 This project is a web-based role-playing game (RPG) designed to simulate campus life at National Taiwan University. It is a graphical interface adaptation of a final group project originally developed for the Programming Design course at the Department of Information Management.
 
@@ -44,7 +46,7 @@ Prerequisites: Node.js (v16+)
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/YourUsername/ntu-life-simulator.git
+    git clone https://github.com/vi730/ntu-life-simulator.git
     cd ntu-life-simulator
     ```
 
